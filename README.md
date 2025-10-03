@@ -1,23 +1,8 @@
 # 👋 Hi~
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-xjtu-auto-sign           3 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 02/10/2025 18:46:01 UTC
+ Last Updated on 03/10/2025 18:47:01 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=lvdongyi&label=Profile%20views&color=0e75b6&style=flat)
