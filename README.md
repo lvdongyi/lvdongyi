@@ -7,17 +7,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  31 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cpp                      19 mins             ███████████████░░░░░░░░░░   60.39 % 
+ToolDNA-main             12 mins             ██████████░░░░░░░░░░░░░░░   39.61 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      31 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/02/2026 19:02:11 UTC
+ Last Updated on 16/02/2026 19:11:25 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=lvdongyi&label=Profile%20views&color=0e75b6&style=flat)
