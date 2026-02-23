@@ -7,17 +7,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  2 hrs 25 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cpp                      2 hrs 25 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 25 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 17/01/2026 18:50:58 UTC
+ Last Updated on 23/02/2026 13:42:02 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=lvdongyi&label=Profile%20views&color=0e75b6&style=flat)
