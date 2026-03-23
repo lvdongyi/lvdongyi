@@ -7,17 +7,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  4 hrs               █████████████████████████   100.00 % 
+VS Code                  2 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cpp                      4 hrs               █████████████████████████   100.00 % 
+cpp                      1 hr 51 mins        ███████████████████████░░   92.76 % 
+Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 
 💻 Operating System: 
-Mac                      4 hrs               █████████████████████████   100.00 % 
+Mac                      2 hrs               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/03/2026 19:02:16 UTC
+ Last Updated on 23/03/2026 19:28:35 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=lvdongyi&label=Profile%20views&color=0e75b6&style=flat)
