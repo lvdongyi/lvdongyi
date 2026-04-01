@@ -7,17 +7,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cpp                      3 mins              ████████████████████░░░░░   80.92 % 
+aone.aone-copilot-3.2.85 0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/03/2026 19:33:27 UTC
+ Last Updated on 01/04/2026 19:37:51 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=lvdongyi&label=Profile%20views&color=0e75b6&style=flat)
