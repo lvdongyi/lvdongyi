@@ -7,21 +7,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  4 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cpp                      3 hrs               ███████████████░░░░░░░░░░   61.72 % 
-D题                       58 mins             █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-MathorCupmodeling-master 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-src                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-figures                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+cpp                      3 hrs               █████████████░░░░░░░░░░░░   51.72 % 
+D题                       58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+verl                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+MathorCupmodeling-master 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+ShorterBetter            12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 💻 Operating System: 
-Mac                      4 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/04/2026 19:45:39 UTC
+ Last Updated on 22/04/2026 19:47:10 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=lvdongyi&label=Profile%20views&color=0e75b6&style=flat)
