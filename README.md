@@ -1,23 +1,8 @@
 # 👋 Hi~
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 23/07/2026 19:55:47 UTC
+ Last Updated on 24/07/2026 19:55:59 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=lvdongyi&label=Profile%20views&color=0e75b6&style=flat)
