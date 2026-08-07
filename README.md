@@ -1,8 +1,6 @@
 # 👋 Hi~
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2054%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -41,7 +39,7 @@ Mac                      2 hrs 17 mins       ███████████�
 ```
 
 
- Last Updated on 05/08/2026 20:09:03 UTC
+ Last Updated on 07/08/2026 00:24:40 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=lvdongyi&label=Profile%20views&color=0e75b6&style=flat)
