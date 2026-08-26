@@ -9,21 +9,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.00 % 
+VS Code                  30 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cpp                      1 hr                █████████████████████████   100.00 % 
+cpp                      30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr                █████████████████████████   100.00 % 
+Mac                      30 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (5.6%)
+⏱ AI Coding Time: 3 mins (11.31%)
 
-✍️ 0 lines written by AI, 75 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 9 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -39,7 +39,7 @@ Mac                      1 hr                ███████████�
 ```
 
 
- Last Updated on 25/08/2026 19:08:57 UTC
+ Last Updated on 26/08/2026 20:40:19 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=lvdongyi&label=Profile%20views&color=0e75b6&style=flat)
