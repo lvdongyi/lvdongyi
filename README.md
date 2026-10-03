@@ -9,39 +9,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Codex CLI                1 hr 18 mins        █████████████████████████   100.00 % 
+Codex CLI                1 hr 23 mins        █████████████████░░░░░░░░   67.03 % 
+VS Code                  41 mins             ████████░░░░░░░░░░░░░░░░░   32.97 % 
 
 🐱‍💻 Projects: 
-lvdongyi                 1 hr 18 mins        █████████████████████████   100.00 % 
+lvdongyi                 1 hr 26 mins        █████████████████░░░░░░░░   69.56 % 
+cpp                      37 mins             ████████░░░░░░░░░░░░░░░░░   30.44 % 
 
 💻 Operating System: 
-Mac                      1 hr 18 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (100.0%)
+⏱ AI Coding Time: 1 hr 26 mins (69.56%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 156 lines written by hand (0.0% AI-written)
 
-🔤 139,604 Input Tokens, 25,235 Output Tokens
+🔤 155,077 Input Tokens, 29,928 Output Tokens
 
-💵 $7.12 Estimated AI Cost This Week
+💵 $7.51 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 5 AI Sessions, 15 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 10 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 12 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/10/2026 22:27:55 UTC
+ Last Updated on 03/10/2026 21:40:20 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=lvdongyi&label=Profile%20views&color=0e75b6&style=flat)
