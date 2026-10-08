@@ -9,42 +9,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Codex CLI                1 hr 3 mins         ███████████████░░░░░░░░░░   60.67 % 
-VS Code                  41 mins             ██████████░░░░░░░░░░░░░░░   39.33 % 
+VS Code                  41 mins             ██████████████████████░░░   89.90 % 
+Codex CLI                4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
 
 🐱‍💻 Projects: 
-lvdongyi                 1 hr 6 mins         ████████████████░░░░░░░░░   63.68 % 
-cpp                      37 mins             █████████░░░░░░░░░░░░░░░░   36.32 % 
+cpp                      37 mins             █████████████████████░░░░   83.01 % 
+lvdongyi                 7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
 
 💻 Operating System: 
-Mac                      1 hr 44 mins        █████████████████████████   100.00 % 
+Mac                      45 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 6 mins (63.68%)
+⏱ AI Coding Time: 7 mins (16.99%)
 
 ✍️ 0 lines written by AI, 156 lines written by hand (0.0% AI-written)
 
-🔤 138,130 Input Tokens, 25,427 Output Tokens
+🔤 15,473 Input Tokens, 4,693 Output Tokens
 
-💵 $6.38 Estimated AI Cost This Week
+💵 $0.39 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 14 AI Prompts
+🧠 3 AI Sessions, 11 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 12 characters per prompt
+📝 Concise Prompter — average 13 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/10/2026 23:15:19 UTC
+ Last Updated on 08/10/2026 23:30:29 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=lvdongyi&label=Profile%20views&color=0e75b6&style=flat)
