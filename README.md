@@ -9,41 +9,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  41 mins             ██████████████████████░░░   89.90 % 
-Codex CLI                4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cpp                      37 mins             █████████████████████░░░░   83.01 % 
-lvdongyi                 7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (16.99%)
-
-✍️ 0 lines written by AI, 156 lines written by hand (0.0% AI-written)
-
-🔤 15,473 Input Tokens, 4,693 Output Tokens
-
-💵 $0.39 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 11 AI Prompts
-
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 13 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 09/10/2026 22:49:14 UTC
+ Last Updated on 10/10/2026 21:56:00 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=lvdongyi&label=Profile%20views&color=0e75b6&style=flat)
